@@ -1,0 +1,47 @@
+body{
+    font-family: 'Caveat',cursive;
+    background-color:orangered;
+    background-size: cover;
+    background-size: 30px;
+
+}
+
+h1{
+    color: yellow;
+    font-style: italic;
+    text-align:left;
+}
+
+p{
+    
+    color: black;
+
+}
+img{
+    width: 30%;
+    height: 60%;
+    
+
+
+}
+#div_tabela{
+    width: 100%;
+    height: auto;
+    border-collapse: collapse;
+    margin: 20px 10px 0px 10px;/*up/left/down/right*/
+}
+#table{
+    width: 15%;
+    height: 100%;
+    font-size: 0.4cm;
+    border-spacing: 2px;
+}
+#footer{
+    width: 100%;
+    height: auto;
+    color: gray;
+    text-align:  center;
+    padding-top: 10px;
+    font-family: 'Caveat',cursive;;
+}
+
